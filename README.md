@@ -24,8 +24,6 @@ O projeto é dividido em duas partes principais:
 
 ## Configuração e Instalação
 
-# Clone o repositório:
-
-   git clone https://github.com/kaiquedu/analisar-imagem-app.git
-   cd analisar-imagem-app
-   Use o script run.bat ou bash run.sh para iniciar a aplicação
+- git clone https://github.com/kaiquedu/analisar-imagem-app.git
+- cd analisar-imagem-app
+- Use o script run.bat ou bash run.sh para iniciar a aplicação
