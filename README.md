@@ -12,7 +12,7 @@ O projeto é dividido em duas partes principais:
 ## Requisitos
 
 - Python 3.7+
-- Node.js (opcional, para desenvolvimento do frontend)
+- pip
 
 ## Principais Bibliotecas Utilizadas
 
